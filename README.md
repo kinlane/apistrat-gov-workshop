@@ -3,6 +3,9 @@ API Strategy & Practice Government Workshop
 
 This is a repository for the [government workshop at API Strategy &amp; Practice](http://www.apistrategyconference.com/2013SF/workshops.php) on October 23rd, 2013.
 
+## Mandate
+* [Executive Order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+
 ## Levels of Government
 * [Federal Government](federal-government.md)
 * [State Government](state-government.md)
