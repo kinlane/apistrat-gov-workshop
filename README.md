@@ -57,6 +57,9 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [Scraper Wiki](https://scraperwiki.com/)
 
 ## Approaches
+* [MySQL to API](approaches/mysql-to-api.md)
+* [JSON to API](approaches/json-to-api.md)
+* [Github JSON to API](approaches/github-json-to-api.md)
 * [Cache](http://publicprivatesector.org/projects/api-cache.html)
 * [Augment](http://publicprivatesector.org/projects/api-augment.html)
 
