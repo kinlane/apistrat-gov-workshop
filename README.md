@@ -14,12 +14,17 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 ## Platforms
 * [CKAN](http://ckan.org)
 * [DKAN](https://drupal.org/project/dkan)
-* [Socrata](platforms/socrata.md)
-* [Github](platforms/github.md)
+* [Socrata](http://www.socrata.com/)
+* [Github](http://github.com)
+* [Simple API](http://simple-api.github.io/central/)
+* [oAuth.io](http://oauth.io/)
 
 ## Tools
 * [Database to API](https://github.com/project-open-data/db-to-api)
 * [CSV to API](https://github.com/project-open-data/csv-to-api)
+* [CSV Converter](http://kinlane.github.io/csv-converter/)
+* [Dev Hub ](http://kinlane.github.io/dev-hub/)
+* [Government Services](http://kinlane.github.io/government-services-schema-from-google-spreadsheet-in-javascript/)
 
 ## Resource
 * [Project Open Data](http://project-open-data.github.io/)
