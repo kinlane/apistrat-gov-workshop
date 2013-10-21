@@ -27,6 +27,8 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
   * [Saint Louse](http://stlouis-mo.gov/government/departments/information-technology/web-development/city-api/)
   * [New Orleans](https://data.nola.gov/)
   * [Palo Alto](http://paloalto.opendata.junar.com/developers/)
+  * [Sacramento](http://portal.cityofsacramento.org/)
+  * [San Jose](http://www.sanjoseca.gov/)
 
 ## Platforms
 * [CKAN](http://ckan.org)
@@ -52,12 +54,12 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [Apache Solr](http://lucene.apache.org/solr/)
 
 ## Approaches
-* Cache
-* Augment
+* [Cache](http://publicprivatesector.org/projects/api-cache.html)
+* [Augment](http://publicprivatesector.org/projects/api-augment.html)
 
 ## Resource
 * [Sunlight Foundation](http://sunlightfoundation.com/api/)
 
 ## Groups
 * [Open Data on Stack Exchange](http://opendata.stackexchange.com/)
-* 
+* [US Government APIs Google Group](https://groups.google.com/forum/#!forum/us-government-apis)
