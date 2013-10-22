@@ -57,9 +57,10 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [Scraper Wiki](https://scraperwiki.com/)
 
 ## Approaches
-* [MySQL to API](approaches/mysql-to-api.md)
-* [JSON to API](approaches/json-to-api.md)
-* [Github JSON to API](approaches/github-json-to-api.md)
+* [MySQL to API](http://apievangelist.com/2013/10/21/deploy-api-mysql-to-api)
+* [JSON to API](http://apievangelist.com/2013/10/21/deploy-api-json-to-api)
+* [Github JSON to API](http://apievangelist.com/2013/10/22/deploy-api-github-json-to-api)
+* [Public Google Spreadsheet to API](http://apievangelist.com/2013/10/22/deploy-api-public-google-spreadsheet-to-api)
 * [Jekyll to JSON](approaches/jekyll-to-json.md)
 * [Cache](http://publicprivatesector.org/projects/api-cache.html)
 * [Augment](http://publicprivatesector.org/projects/api-augment.html)
