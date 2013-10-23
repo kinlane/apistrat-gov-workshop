@@ -5,6 +5,7 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 
 ## Mandate
 * [Executive Order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+* [White House Open Data Policy](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 
 ## Levels of Government
 * Federal Government
