@@ -55,6 +55,7 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [JSON Editor](http://www.jsoneditoronline.org/)
 * [Apache Solr](http://lucene.apache.org/solr/)
 * [Scraper Wiki](https://scraperwiki.com/)
+* [Import.io](http://import.io/)
 * [Prose IO](http://prose.io/)
 
 ## Approaches
