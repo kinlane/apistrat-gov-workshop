@@ -24,7 +24,7 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
   * [Chicago](http://www.cityofchicago.org/city/en/narr/foia/sample_code0.html)
   * [Philadelphia](http://phlapi.com/)
   * [Boston](http://www.cityofboston.gov/DoIT/default.asp)
-  * [Saint Louse](http://stlouis-mo.gov/government/departments/information-technology/web-development/city-api/)
+  * [Saint Louis](http://stlouis-mo.gov/government/departments/information-technology/web-development/city-api/)
   * [New Orleans](https://data.nola.gov/)
   * [Palo Alto](http://paloalto.opendata.junar.com/developers/)
   * [Sacramento](http://portal.cityofsacramento.org/)
