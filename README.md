@@ -57,6 +57,7 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [Scraper Wiki](https://scraperwiki.com/)
 * [Import.io](http://import.io/)
 * [Prose IO](http://prose.io/)
+* [D3JS](http://d3js.org/)
 
 ## Approaches
 * [MySQL to API](http://apievangelist.com/2013/10/21/deploy-api-mysql-to-api)
