@@ -69,8 +69,11 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [Cache](http://publicprivatesector.org/projects/api-cache.html)
 * [Augment](http://publicprivatesector.org/projects/api-augment.html)
 
-## Resource
+## Resources
 * [Sunlight Foundation](http://sunlightfoundation.com/api/)
+* [Department of Better Technology](http://www.dobt.co/)
+* [Development Seed](http://developmentseed.org/)
+* [Code for America](http://codeforamerica.org/)
 
 ## Groups
 * [Open Data on Stack Exchange](http://opendata.stackexchange.com/)
