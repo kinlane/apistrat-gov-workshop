@@ -12,13 +12,13 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
   * [Data.gov](http://data.gov)
   * [Developer Hubs](http://www.data.gov/developers/page/developer-resources#pages)
   * [Project Open Data](http://project-open-data.github.io/)
-* [State Government](state-government.md)
+* State Government
   * [Washington](https://data.wa.gov/)
   * [Illinois](https://data.illinois.gov/)
   * [Oregon](https://data.oregon.gov/)
   * [Oklahoma](https://data.ok.gov/) 
   * [Colorado](http://data.opencolorado.org/)
-* [City Government](city-government.md)
+* City Government
   * [New York City](https://nycopendata.socrata.com/)
   * [San Francisco](https://data.sfgov.org/)
   * [Seattle](https://data.seattle.gov/)
