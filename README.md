@@ -55,13 +55,14 @@ This is a repository for the [government workshop at API Strategy &amp; Practice
 * [JSON Editor](http://www.jsoneditoronline.org/)
 * [Apache Solr](http://lucene.apache.org/solr/)
 * [Scraper Wiki](https://scraperwiki.com/)
+* [Prose IO](http://prose.io/)
 
 ## Approaches
 * [MySQL to API](http://apievangelist.com/2013/10/21/deploy-api-mysql-to-api)
 * [JSON to API](http://apievangelist.com/2013/10/21/deploy-api-json-to-api)
 * [Github JSON to API](http://apievangelist.com/2013/10/22/deploy-api-github-json-to-api)
 * [Public Google Spreadsheet to API](http://apievangelist.com/2013/10/22/deploy-api-public-google-spreadsheet-to-api)
-* [Jekyll to JSON](approaches/jekyll-to-json.md)
+* [Jekyll to JSON](http://kinlane.github.io/jekyll-data/)
 * [Cache](http://publicprivatesector.org/projects/api-cache.html)
 * [Augment](http://publicprivatesector.org/projects/api-augment.html)
 
